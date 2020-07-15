@@ -2,7 +2,6 @@
 		category = CATEGORY_HUMAN
 		weight = WEIGHT_MOB
 
-
 /datum/keybinding/mob/face_north
 	key = "Ctrl-W"
 	name = "face_north"
